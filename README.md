@@ -1,5 +1,6 @@
 # HourGlass
 Given a 6 x 6 2D Array, arr:
+
   1 1 1 0 0 0 
   0 1 0 0 0 0
   1 1 1 0 0 0
